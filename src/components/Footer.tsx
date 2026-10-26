@@ -111,7 +111,7 @@ export const Footer = () => {
             )}
           </div>
           <p className="text-muted-foreground text-sm">
-            © 2025 BigBig Burguer. Todos os direitos reservados.
+            © 2026 Hamburgueria. Todos os direitos reservados.
           </p>
         </div>
       </div>
