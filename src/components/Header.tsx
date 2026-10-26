@@ -78,13 +78,13 @@ export const Header = () => {
             {usarLogoHeader && headerLogoUrl ? (
               <img 
                 src={headerLogoUrl} 
-                alt="Logo BigBig Burguer" 
+                alt="Logo SUA MARCA Burguer" 
                 className="h-12 object-contain group-hover:scale-110 transition-transform"
               />
             ) : (
               <>
                 <div className="text-4xl font-extrabold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent group-hover:scale-110 transition-transform">
-                  BigBig
+                  SUA MARCA
                 </div>
                 <div className="text-2xl font-bold text-foreground group-hover:text-primary transition-colors">
                   Burguer
